@@ -1,0 +1,63 @@
+.fourth__content {
+  background: #ffffff;
+  height: 604px;
+}
+
+.fourth__title__h2{
+  margin: 0px;
+}
+.fourth__title {
+  margin: 48px 55px 54px 0px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  color: #007765;
+}
+
+.fourth__descr {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+}
+.fourth__left {
+  background: url(../img/PPC\ Logo.svg);
+  height: 115px;
+  width: 115px;
+  margin-top: 16px;
+  margin-left: 55px;
+}
+
+.fourth__right {
+  margin-right: 71px;
+  width: 930px;
+  margin-top: 16px;
+}
+.fourth__right__p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+  width: 930px;
+  margin: 0px;
+}
+
+.fourth__info{
+  margin-left: 55px;
+  margin-right: 55px;
+  width: 1110px;
+  margin-top: 40px;
+}
+.fourth__info__p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+  margin: 0px;
+}

@@ -1,0 +1,16 @@
+.first__img {
+  background: url(../img/image.png);
+  height: 403px;
+}
+
+.first__title {
+  margin: 0px;
+  text-align: center;
+  padding-top: 150px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 72px;
+  line-height: 84px;
+  color: #ffffff;
+}

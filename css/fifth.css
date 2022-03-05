@@ -1,0 +1,114 @@
+.fifth__content {
+  background: #eeeeee;
+  height: 845px;
+}
+
+.fifth__title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  color: #007765;
+  padding: 48px 55px 0px 54px;
+}
+
+.fifth__h2 {
+  margin: 0px;
+}
+
+.fifth__one {
+  background: url(../img/one.png);
+  width: 168px;
+  height: 168px;
+  margin-left: 20px;
+}
+.fifth__two {
+  background: url(../img/two.png);
+  width: 168px;
+  height: 168px;
+  
+}
+.fifth__three {
+  background: url(../img/three.png);
+  width: 168px;
+  height: 168px;
+  margin-left: 15px;
+}
+.fifth__four {
+  background: url(../img/four.png);
+  width: 168px;
+  height: 168px;
+  
+}
+.fifth__five {
+  background: url(../img/five.png);
+  width: 168px;
+  height: 168px;
+  
+}
+.fifth__six {
+  background: url(../img/six.png);
+  width: 168px;
+  height: 168px;
+  
+}
+
+.fifth__ul {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.fifth__h3 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  color: #007765;
+  text-align: center;
+  margin-top: 16px;
+  margin-bottom: 0px;
+}
+
+.fifth__p {
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+  text-align: center;
+  margin: 0px;
+}
+
+.fifth__staff{
+  width: 905px;
+  margin: 0 auto;
+  margin-top: 56px;
+}
+
+.fifth__li__one{
+  margin-right: 52px;
+}
+.fifth__li__two{
+  margin-right: 52px;
+}
+.fifth__li__three{
+  margin-right: 52px;
+}
+.fifth__li__four{
+  margin-right: 52px;
+  margin-top: 82px;
+}
+.fifth__li__five{
+  margin-right: 52px;
+  margin-top: 82px;
+}
+.fifth__li__six{
+  margin-right: 52px;
+  margin-top: 82px;
+}

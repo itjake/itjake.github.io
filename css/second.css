@@ -1,0 +1,31 @@
+.second__content {
+  background: #eeeeee;
+  height: 650px;
+  margin: 0 auto;
+}
+.second__descr {
+  margin: 0 auto;
+}
+.second__title {
+  margin: 0px;
+  text-align: center;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  color: #007765;
+  padding-top: 48px;
+}
+
+.second__subinfo {
+  margin: 16px 55px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+  padding-top: 16px;
+}
+
